@@ -1,0 +1,13 @@
+---
+title: "Courses"
+format: html
+---
+
+## Current Courses
+
+- Stat
+- Math
+
+## Past Courses
+
+- CHG

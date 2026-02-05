@@ -1,15 +1,44 @@
 project:
   type: website
   output-dir: docs
+  
+# Meta
+description-meta: "Navid Mohseni is a statistician/data scientist working at the intersection of statistics, epidemiology and public health."
+author-meta: "Navid Mohseni"  
 
 website:
-  title: "navidmohseni.github.io"
+  title: "Navid Mohseni"
+  description: "Navid Mohseni is a statistician/data scientist working at the intersection of statistics, epidemiology and public health."
   navbar:
+    background: light
+    search: true
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
-
+        text: About
+        icon: house-door-fill
+      - text: CV
+        icon: person-vcard-fill
+        menu: 
+          - text: Teaching
+            href: CV/teaching.qmd        # Added "CV/" and ".qmd"
+          - text: Courses
+            href: CV/courses.qmd         # Added "CV/" and ".qmd"
+          - text: Presentations
+            href: CV/presentations.qmd   # Added "CV/" and ".qmd"
+          - text: Experience
+            href: CV/experience.qmd      # Added "CV/" and ".qmd"
+      - href: blog.qmd                   # Added ".qmd"
+        text: Blog  
+        icon: journal
+      - href: papers.qmd                 # Added ".qmd"
+        text: Papers
+        icon: file-earmark-text-fill
+      - href: photography.qmd            # Added ".qmd"
+        text: Photography
+        icon: camera-fill
+  page-footer: 
+    left: "(c) Navid Mohseni [Disclaimer](disclaimer.qmd)"
+    
 format:
   html:
     theme: cosmo
@@ -17,4 +46,3 @@ format:
     toc: true
 
 editor: visual
-

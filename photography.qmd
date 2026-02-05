@@ -1,0 +1,45 @@
+---
+title: "Photography"
+editor: visual
+filters:
+  - lightbox
+lightbox: auto
+---
+
+<!-- ::: {.panel-tabset} -->
+
+<!-- ## 2025 -->
+
+<!-- ::: {layout-ncol=3} -->
+
+<!-- ![Description of photo 1](images/photography/2025/photo1.jpg){group="2025"} -->
+
+<!-- ![Description of photo 2](images/photography/2025/photo2.jpg){group="2025"} -->
+
+<!-- ![Description of photo 3](images/photography/2025/photo3.jpg){group="2025"} -->
+
+<!-- ::: -->
+
+<!-- ## 2024 -->
+
+<!-- ::: {layout-ncol=3} -->
+
+<!-- ![Description of photo A](images/photography/2024/photoA.jpg){group="2024"} -->
+
+<!-- ![Description of photo B](images/photography/2024/photoB.jpg){group="2024"} -->
+
+<!-- ::: -->
+
+<!-- ## 2023 -->
+
+<!-- ::: {layout-ncol=3} -->
+
+<!-- ![Description of photo 1](images/photography/2025/photo1.jpg){group="2025"} -->
+
+<!-- ![Description of photo 2](images/photography/2025/photo2.jpg){group="2025"} -->
+
+<!-- ![Description of photo 3](images/photography/2025/photo3.jpg){group="2025"} -->
+
+<!-- ::: -->
+
+<!-- ::: -->

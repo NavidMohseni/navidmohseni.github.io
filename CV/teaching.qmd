@@ -1,0 +1,71 @@
+---
+title: "Teaching"
+subtitle: "Overview of my instructor and teaching assistant roles at Marquette University."
+description-meta: "Teaching portfolio including Modern Elementary Statistics, Statistical Methods, and Calculus."
+title-block-banner: false
+---
+
+## Instructor of Record
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-2 style="text-align: center;"}
+<i class="fa-solid fa-chalkboard-user fa-3x" style="color: #444;"></i>
+:::
+
+::: {.g-col-12 .g-col-md-10}
+
+### MATH 1700 - Modern Elementary Statistics
+**Fall 2024**
+
+Teaching this course was a highlight of my academic journey. My philosophy centered on making statistics engaging and relatable to students' everyday lives, transforming a subject often viewed with trepidation into one of intrigue.
+
+To bridge the gap between theory and reality, I introduced a **"Stat of the Day"** segment using data from platforms like *Statista*, covering topics from Black Friday consumer behavior to biomedical statistics. I also utilized creative examples—such as comparing gameplay statistics from *"Grand Theft Auto V"* vs. *"Call of Duty: Warzone"*—to demonstrate hypothesis testing in a fun context.
+
+I prioritized inclusive support by offering extended office hours and collaborating with the Lemons Center tutors. This approach yielded exceptional engagement; I received outstanding feedback on *RateMyProfessor*, with students noting that the course successfully connected statistics to their own fields of study, such as nursing and engineering.
+
+:::
+
+:::
+
+---
+
+## Teaching Assistant
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-2 style="text-align: center;"}
+<i class="fa-solid fa-chart-line fa-3x" style="color: #666;"></i>
+:::
+
+::: {.g-col-12 .g-col-md-10}
+
+### Statistical Methods
+**Spring 2023, Fall 2023, Spring 2024**
+
+Over three semesters, I supported diverse cohorts of students under different professors, adapting my teaching style to match specific pedagogical methods. My primary goal was to demystify complex statistical concepts through accessible explanations.
+
+I developed a strong rapport with my students, resulting in high attendance at office hours and a supportive learning environment. This connection was so effective that students frequently requested I TA for their future courses and invited me to academic ceremonies. I consistently received positive feedback from faculty regarding the improved performance and confidence of the students I mentored.
+
+:::
+
+:::
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-2 style="text-align: center;"}
+<i class="fa-solid fa-square-root-variable fa-3x" style="color: #666;"></i>
+:::
+
+::: {.g-col-12 .g-col-md-10}
+
+### Calculus 1
+**Spring 2025, Fall 2025**
+
+In this role, I assisted undergraduate students in mastering fundamental calculus concepts. Recognizing that Calculus is a gateway course that can be challenging, I focused on creating a low-stress environment where students felt safe making mistakes and learning from them.
+
+I worked closely with the professors to align my recitation sessions with lecture material, ensuring continuity for the students. My approach emphasized clarity and patience, leading to strong student-TA relationships and commendations from the course instructors for my reliability and ability to handle student questions effectively.
+
+:::
+
+:::

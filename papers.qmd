@@ -1,0 +1,31 @@
+---
+title: "Papers"
+title-block-banner: false
+toc: true
+---
+
+Click "[PDF]" to download the paper where available.
+
+---
+
+### 2025
+
+<p>Yegani, T., <strong>Mohseni, N.</strong>, Dudda, M., Hardes, J., and Seitz, S. Submitted. Accuracy of Digital Preoperative Planning in Total Hip Arthroplasty: Which Factors Influence the Planning Precision for Cementless Short Curved Stem Prostheses via the Direct Anterior Approach? <em>The Journal of Arthroplasty</em>.</p>
+
+### 2021
+
+<p><strong>Mohseni, N.</strong>, Khadem Maboudi, A. A., Baghestani, A., Hajifathali, H., and Saeedi, A. 2021. A cure rate survival model after stem cell transplantation for relapsed or refractory Hodgkin lymphoma patients. <em>Middle East Journal of Cancer</em>. <a href="http://dx.doi.org/10.30476/MEJC.2021.88135.1461">https://doi.org/10.30476/MEJC.2021.88135.1461</a> <a href="https://mejc.sums.ac.ir/article_47474.html">[URL]</a></p>
+
+### 2020
+
+<p>Saeedi, A., Baghestani, A., Hashemi-Nazari, S. S., Minoo, F., <strong>Mohseni, N.</strong>, and Esfahani, Z. 2020. Prediction of mortality incidence in patients with chronic kidney Disease based on influential prognostic factors with competing risks Approach. <em>Galen Medical Journal</em>, 9: e1798. <a href="https://doi.org/10.31661/gmj.v9i0.1798">https://doi.org/10.31661/gmj.v9i0.1798</a></p>
+
+<p><strong>Mohseni, N.</strong>, Khadem Maboudi, A. A., Baghestani, A., and Saeedi, A. 2020. A cure rate model with discrete frailty on Hodgkin lymphoma patients after diagnosis. <em>Archives of Advances in Biosciences</em>. <a href="https://doi.org/10.22037/aab.v11i4.32576">https://doi.org/10.22037/aab.v11i4.32576</a></p>
+
+<p>Looha, M. A., Masaebi, F., <strong>Mohseni, N.</strong>, Abedi, M., and Fakharian, A. 2020. The Optimal Cut-off Score of the Nijmegen Questionnaire for Diagnosing Hyperventilation Syndrome Using a Bayesian Model in the Absence of a Gold Standard. <em>Galen Medical Journal</em>. <a href="http://dx.doi.org/10.31661/gmj.v9i0.1738">https://doi.org/10.31661/gmj.v9i0.1738</a> <a href="https://www.gmj.ir/index.php/gmj/article/view/1738/pdf">[PDF]</a></p>
+
+<p>Masaebi, F., Looha, M. A., Rostami-Nejad, M., Pourhoseingholi, M. A., <strong>Mohseni, N.</strong>, Samasca, G., Lupan, I., Rezaei-Tavirani, M., and Zali, M. R. 2020. The Predictive Value of Serum Cytokines for Distinguishing Celiac Disease from Non-Celiac Gluten Sensitivity and Healthy Subjects. <em>Iranian Biomedical Journal</em>. <a href="https://doi.org/10.29252/ibj.24.6.335">https://doi.org/10.29252/ibj.24.6.335</a> <a href="http://ibj.pasteur.ac.ir/article-1-3144-en.pdf">[PDF]</a></p>
+
+### 2019
+
+<p>Looha, M. A., Masaebi, F., <strong>Mohseni, N.</strong>, Nasiri, M., Kazeruni, F., and Zayeri, F. 2019. Assessing the diagnostic power of Cystatin C and Creatinine in the detection of chronic kidney disease. <em>Archives of Advances in Biosciences</em>. <a href="https://doi.org/10.22037/aab.v10i3.25589">https://doi.org/10.22037/aab.v10i3.25589</a> <a href="https://journals.sbmu.ac.ir/index.php/aab/article/view/25589/17471">[PDF]</a></p>

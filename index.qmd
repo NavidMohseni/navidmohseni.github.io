@@ -1,11 +1,57 @@
 ---
-title: "navidmohseni.github.io"
+title: "Navid Mohseni"
+about:
+  template: trestles
+  image: images/profile_pic2.png
+  image-shape: round
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/navid-mohseni-24842690/
+    - icon: github
+      text: Github
+      href: https://github.com/NavidMohseni
+    - text: "{{< ai google-scholar >}} Google Scholar"
+      href: https://scholar.google.com/citations?user=LFsHW6cAAAAJ&hl=en&oi=ao
+    - text: "{{< fa book >}} Goodreads"
+      href: https://www.goodreads.com/user/show/54321599-navid-mohseni    
+    - text: "{{< fa envelope >}} Email"
+      href: mailto:navvidmohseni@gmail.com
+comments: false
 ---
 
-This is a Quarto website.
+## Bio
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Hi there, I'm **Navid**.
 
-```{r}
-1 + 1
-```
+I believe that data is more than just numbers; it is a tool to craft tangible help and impact lives. It is incredibly fulfilling to know that my work plays a part in assisting others and solving real-world problems.
+
+Currently, I am immersing myself in the intricate world of **Computational Mathematics and Statistics** as a Ph.D. student at [Marquette University](https://www.marquette.edu/).
+
+Previously, I earned my Master's degree in **Biostatistics** from [Shahid Beheshti University of Medical Sciences](https://en.sbmu.ac.ir/index.jsp?fkeyid=&siteid=256&pageid=2046) (ranked 1st in the country for biostatistics), where my thesis focused on *cure rate survival models using discrete frailty*. I also hold a Bachelor's degree in **Statistics** from [Shahid Beheshti University](http://en.sbu.ac.ir/SitePages/Home.aspx).
+
+In the professional realm, I navigate the intersection of research and application. I have worked as an independent data analyst, a researcher, and an instructor teaching R. My time at [TezolMarket](https://www.tezolmarket.com/) was particularly pivotal, allowing me to tackle and resolve complex data challenges on a daily basis.
+
+Beyond the numbers, I have a deep-seated interest in [photography](https://500px.com/p/Navidmohseni?view=photos), [books](https://www.goodreads.com/user/show/54321599-navid-mohseni), running, squash, and art.
+
+---
+
+## Education
+
+**Marquette University** | Milwaukee, WI <br>
+Ph.D. in Computational Mathematics and Statistics | 2023 - Present
+
+**Shahid Beheshti University of Medical Sciences** | Tehran, Iran <br>
+M.Sc. in Biostatistics | 2020
+
+**Shahid Beheshti University** | Tehran, Iran <br>
+B.Sc. in Statistics | 2016
+
+---
+
+## Research Interests
+
+* Biostatistics
+* Epidemiology
+* Data Visualization
+* R Programming

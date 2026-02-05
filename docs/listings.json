@@ -1,0 +1,10 @@
+[
+  {
+    "listing": "/blog.html",
+    "items": [
+      "/posts/regression/index.html",
+      "/posts/heart_rate/index.html",
+      "/posts/taxi_analysis/index.html"
+    ]
+  }
+]

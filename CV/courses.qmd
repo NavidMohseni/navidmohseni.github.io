@@ -1,0 +1,104 @@
+---
+title: "Courses"
+subtitle: "A summary of my academic coursework and professional certifications."
+title-block-banner: false
+toc: true
+---
+
+## PhD Coursework
+**Marquette University**
+
+My doctoral studies focus on advanced computational methods and statistical theory.
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+### <i class="bi bi-cpu"></i> Computing & Simulation
+* Computational Statistics
+* Scientific Computing
+* Simulation
+* Statistical Machine Learning
+* Computational Probability
+:::
+
+::: {.g-col-12 .g-col-md-6}
+### <i class="bi bi-graph-up"></i> Theory & Methods
+* Mathematical Statistics
+* Applied Mathematical Analysis
+* Linear Algebra
+* Regression Analysis
+* Longitudinal Data Analysis
+* Research Methods
+:::
+
+:::
+
+---
+
+## Master's Coursework
+**Shahid Beheshti University of Medical Sciences**
+
+My Master's program provided a rigorous foundation in biostatistics and clinical applications.
+
+* **Statistical Methods:** Methods of Biostatistics (I, II, III), Biostatistical Inferences (I, II), Nonparametric Statistics, Practical Multivariate Analysis, Categorical Data Analysis.
+* **Health Applications:** Clinical Trials, Survival Analysis, Principles and Methods of Epidemiology, Medical Information Systems, Overview of Medical Sciences.
+
+---
+
+## Online Certifications & Workshops
+
+I am a continuous learner, regularly updating my skills in data science and programming through professional platforms.
+
+### DataCamp Tracks
+
+<details>
+<summary><strong>Data Scientist with R Track</strong> (Dec 2017) - <em>Click to view courses</em></summary>
+<br>
+This comprehensive track covers the entire data science workflow in R.
+<ul>
+    <li>Introduction to R & Intermediate R</li>
+    <li>Introduction to the Tidyverse</li>
+    <li>Importing & Cleaning Data in R (Intro & Intermediate)</li>
+    <li>Introduction to SQL & Joining Data in SQL</li>
+    <li>Data Visualization with ggplot2</li>
+    <li>Communicating with Data in the Tidyverse</li>
+    <li>Exploratory Data Analysis in R (plus Case Study)</li>
+    <li>Machine Learning with caret & Tidyverse</li>
+    <li>Cluster Analysis & Unsupervised Learning in R</li>
+</ul>
+<a href="https://www.datacamp.com/statement-of-accomplishment/track/11ab83ea5be93272586d94f5b416837977b%20%20%20eec05" target="_blank" class="btn btn-outline-primary btn-sm">View Certificate</a>
+</details>
+
+<br>
+
+<details>
+<summary><strong>Statistics with R Track</strong> (Oct 2018) - <em>Click to view courses</em></summary>
+<br>
+Focused on statistical inference and modeling.
+<ul>
+    <li>Correlation and Regression</li>
+    <li>Multiple and Logistic Regression</li>
+    <li>Generalized Linear Models (GLM)</li>
+    <li>Foundations of Inference</li>
+    <li>Time Series Analysis, Forecasting & ARIMA Models</li>
+    <li>Experimental Design</li>
+    <li>Factor Analysis & Structural Equation Modeling</li>
+    <li>Multivariate Probability Distributions</li>
+</ul>
+<a href="https://www.datacamp.com/statement-of-accomplishment/track/8f82184342e02025e702345d3d9a6a92eddc8016" target="_blank" class="btn btn-outline-primary btn-sm">View Certificate</a>
+</details>
+
+<br>
+
+<details>
+<summary><strong>Data Analyst with Python Track</strong> (Nov 2016)</summary>
+<br>
+Foundational data analysis skills using Python.
+<br><br>
+<a href="https://www.datacamp.com/statement-of-accomplishment/track/057695c75c1856fc8d813fe56a0ac6b4e0620b01" target="_blank" class="btn btn-outline-primary btn-sm">View Certificate</a>
+</details>
+
+### Additional Certifications & Workshops
+
+* **Tableau Fundamentals** (DataCamp, May 2021)
+* **Introduction to Scholarly Publishing Workshop** (Elsevier, Dec 2018)

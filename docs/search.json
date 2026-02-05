@@ -9,8 +9,183 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "navidmohseni.github.io",
+    "title": "Navid Mohseni",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Hi there, I’m Navid.\nI believe that data is more than just numbers; it is a tool to craft tangible help and impact lives. It is incredibly fulfilling to know that my work plays a part in assisting others and solving real-world problems.\nCurrently, I am immersing myself in the intricate world of Computational Mathematics and Statistics as a Ph.D. student at Marquette University.\nPreviously, I earned my Master’s degree in Biostatistics from Shahid Beheshti University of Medical Sciences (ranked 1st in the country for biostatistics), where my thesis focused on cure rate survival models using discrete frailty. I also hold a Bachelor’s degree in Statistics from Shahid Beheshti University.\nIn the professional realm, I navigate the intersection of research and application. I have worked as an independent data analyst, a researcher, and an instructor teaching R. My time at TezolMarket was particularly pivotal, allowing me to tackle and resolve complex data challenges on a daily basis.\nBeyond the numbers, I have a deep-seated interest in photography, books, running, squash, and art."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Navid Mohseni",
+    "section": "Education",
+    "text": "Education\nMarquette University | Milwaukee, WI  Ph.D. in Computational Mathematics and Statistics | 2023 - Present\nShahid Beheshti University of Medical Sciences | Tehran, Iran  M.Sc. in Biostatistics | 2020\nShahid Beheshti University | Tehran, Iran  B.Sc. in Statistics | 2016"
+  },
+  {
+    "objectID": "index.html#bio",
+    "href": "index.html#bio",
+    "title": "Navid Mohseni",
+    "section": "",
+    "text": "Hi there, I’m Navid.\nI believe that data is more than just numbers; it is a tool to craft tangible help and impact lives. It is incredibly fulfilling to know that my work plays a part in assisting others and solving real-world problems.\nCurrently, I am immersing myself in the intricate world of Computational Mathematics and Statistics as a Ph.D. student at Marquette University.\nPreviously, I earned my Master’s degree in Biostatistics from Shahid Beheshti University of Medical Sciences (ranked 1st in the country for biostatistics), where my thesis focused on cure rate survival models using discrete frailty. I also hold a Bachelor’s degree in Statistics from Shahid Beheshti University.\nIn the professional realm, I navigate the intersection of research and application. I have worked as an independent data analyst, a researcher, and an instructor teaching R. My time at TezolMarket was particularly pivotal, allowing me to tackle and resolve complex data challenges on a daily basis.\nBeyond the numbers, I have a deep-seated interest in photography, books, running, squash, and art."
+  },
+  {
+    "objectID": "index.html#key-research-interests",
+    "href": "index.html#key-research-interests",
+    "title": "Navid Mohseni",
+    "section": "Key research interests",
+    "text": "Key research interests\n\nAI: verifiable agentic systems, signature embedding, complex autonomy/large agentic networks, emergence, SLMs, self-healing agrntic architectures\nComputational epidemiology: agent-based modelling, disease-avoidant behaviours, epidemics over dynamic networks, geospatial computational epidemiology – all primarily in the context of infectious diseases\nPharmacovigilance: VAERS, passive reporting, text mining of large complex report sets using LLMs\nComputational dynamics: computational dynamics of complex systems, computational dynamics of infectious diseases, computational dynamics of social systems\nPublic health: evidence-based public health policy, public health ethics, public health law, quality and systems improvement in public health"
+  },
+  {
+    "objectID": "index.html#teaching",
+    "href": "index.html#teaching",
+    "title": "Navid Mohseni",
+    "section": "Teaching",
+    "text": "Teaching\nI am a visiting thesis supervisor for students on the data science track of the mathematics programme at the Budapest University of Technology and Economics - you can read more about this here.\nFrom time to time, I get invited to give talks and lectures. My capacity for this is somewhat limited due to other commitments, but if you are interested in having me speak at your event, please get in touch."
+  },
+  {
+    "objectID": "index.html#selected-papers",
+    "href": "index.html#selected-papers",
+    "title": "Navid Mohseni",
+    "section": "Selected papers",
+    "text": "Selected papers\nTocilizumab in addition to standard of care in the management of COVID-19: A meta-analysis of RCTs. Mutua V, Henry BM, von Csefalvay, C, Cheruiyot I, Vikse J, Lippi G, Bundi B, Mong’are N. Acta Biomed. 2022, 93(1):e2022014. doi: 10.23750/abm.v93i1.12208.\nJAMPI: Efficient matrix multiplication in Spark using barrier execution mode. Foldi T, von Csefalvay C, Perez NA. BDCC 2020, 4(4):32. doi: 10.3390/bdcc4040032.\nVAERS data reveals no increased risk of neuroautoimmune adverse events from COVID- vaccines. von Csefalvay, C. medRxiv 2021. doi: 10.1101/2021.06.13.21258851.\nTuberculous polyserositis in endemic areas with an emphasis on empiric therapy: A case report. Munguti J, Mutua V, Cheruiyot I, von Csefalvay C, Opare-Addo P, Kiko N, Wanjiru R. Medicine: Case Reports. 2022, 3(4):e0221. doi: 10.1097/MD9.0000000000000221.\nSee more here."
+  },
+  {
+    "objectID": "index.html#professional-affiliations",
+    "href": "index.html#professional-affiliations",
+    "title": "Navid Mohseni",
+    "section": "Professional affiliations",
+    "text": "Professional affiliations\nThe OR Society | Member since 2020\nRoyal Society for Public Health | Fellow since 2021\nTOPRA | Registered Member since 2021\nAmerican Public Health Association | Member since 2021\nIEEE | Senior Member since 2024"
+  },
+  {
+    "objectID": "index.html#personal-life",
+    "href": "index.html#personal-life",
+    "title": "Navid Mohseni",
+    "section": "Personal life",
+    "text": "Personal life\nI live in Denver, CO, with my Golden Retriever, Oliver. Born in Budapest, Hungary, I’ve spent my formative years in England, but have called the Netherlands, Germany, Belgium, Austria and the United States home at various points in my life. Since 2020, I’ve been living in the United States, where I am a permanent resident.\nIn my free time, I enjoy reading (mostly Cold War history and classical Greek drama), cooking (with not a lot of success) and Renaissance polyphony (esp. Thomas Tallis and Orlando di Lasso). I’m credited for a somewhat pretty sequence of integers called Jellyfish Heart numbers (OEIS A344856), which I discovered in 2020 while doing something that has nothing at all to do with my day job.\nI live with neuromyelitis optica since 2015, which has left me with a lifelong desire to understand complex, multicausal health conditions like NMOSD better.\nIn what little is left of my free time, I’m an adaptive multisport athlete, competing in wheelchair rugby, adaptive rowing (category PR1) and the SkiErg (category SIT2). In the latter, I currently hold the world records for 100m, 500m, 1,000m, 2,000m, 6,000m, 10,000m, 21,097m and 42,195m distances and the 60 minutes time. I occasionally rant and whine about my forays in the world of adaptive exercise and my attempts at doing so in a mostly science-based manner."
+  },
+  {
+    "objectID": "index.html#pronunciation-guide",
+    "href": "index.html#pronunciation-guide",
+    "title": "Navid Mohseni",
+    "section": "Pronunciation guide",
+    "text": "Pronunciation guide\nMy last name rhymes with Chick-Fil-A."
+  },
+  {
+    "objectID": "Courses.html",
+    "href": "Courses.html",
+    "title": "Courses",
+    "section": "",
+    "text": "Stat\nMath"
+  },
+  {
+    "objectID": "Courses.html#current-courses",
+    "href": "Courses.html#current-courses",
+    "title": "Courses",
+    "section": "",
+    "text": "Stat\nMath"
+  },
+  {
+    "objectID": "Courses.html#past-courses",
+    "href": "Courses.html#past-courses",
+    "title": "Courses",
+    "section": "Past Courses",
+    "text": "Past Courses\n\nCHG"
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Navid Mohseni",
+    "section": "Research Interests",
+    "text": "Research Interests\n\nBiostatistics\nEpidemiology\nData Visualization\nR Programming"
+  },
+  {
+    "objectID": "CV/teaching.html",
+    "href": "CV/teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Fall 2024\nTeaching this course was a highlight of my academic journey. My philosophy centered on making statistics engaging and relatable to students’ everyday lives, transforming a subject often viewed with trepidation into one of intrigue.\nTo bridge the gap between theory and reality, I introduced a “Stat of the Day” segment using data from platforms like Statista, covering topics from Black Friday consumer behavior to biomedical statistics. I also utilized creative examples—such as comparing gameplay statistics from “Grand Theft Auto V” vs. “Call of Duty: Warzone”—to demonstrate hypothesis testing in a fun context.\nI prioritized inclusive support by offering extended office hours and collaborating with the Lemons Center tutors. This approach yielded exceptional engagement; I received outstanding feedback on RateMyProfessor, with students noting that the course successfully connected statistics to their own fields of study, such as nursing and engineering."
+  },
+  {
+    "objectID": "CV/teaching.html#instructor-of-record",
+    "href": "CV/teaching.html#instructor-of-record",
+    "title": "Teaching",
+    "section": "",
+    "text": "Fall 2024\nTeaching this course was a highlight of my academic journey. My philosophy centered on making statistics engaging and relatable to students’ everyday lives, transforming a subject often viewed with trepidation into one of intrigue.\nTo bridge the gap between theory and reality, I introduced a “Stat of the Day” segment using data from platforms like Statista, covering topics from Black Friday consumer behavior to biomedical statistics. I also utilized creative examples—such as comparing gameplay statistics from “Grand Theft Auto V” vs. “Call of Duty: Warzone”—to demonstrate hypothesis testing in a fun context.\nI prioritized inclusive support by offering extended office hours and collaborating with the Lemons Center tutors. This approach yielded exceptional engagement; I received outstanding feedback on RateMyProfessor, with students noting that the course successfully connected statistics to their own fields of study, such as nursing and engineering."
+  },
+  {
+    "objectID": "CV/teaching.html#teaching-assistant",
+    "href": "CV/teaching.html#teaching-assistant",
+    "title": "Teaching",
+    "section": "Teaching Assistant",
+    "text": "Teaching Assistant\n\n\n\n\n\nStatistical Methods\nSpring 2023, Fall 2023, Spring 2024\nOver three semesters, I supported diverse cohorts of students under different professors, adapting my teaching style to match specific pedagogical methods. My primary goal was to demystify complex statistical concepts through accessible explanations.\nI developed a strong rapport with my students, resulting in high attendance at office hours and a supportive learning environment. This connection was so effective that students frequently requested I TA for their future courses and invited me to academic ceremonies. I consistently received positive feedback from faculty regarding the improved performance and confidence of the students I mentored.\n\n\n\n\n\n\n\nCalculus 1\nSpring 2025, Fall 2025\nIn this role, I assisted undergraduate students in mastering fundamental calculus concepts. Recognizing that Calculus is a gateway course that can be challenging, I focused on creating a low-stress environment where students felt safe making mistakes and learning from them.\nI worked closely with the professors to align my recitation sessions with lecture material, ensuring continuity for the students. My approach emphasized clarity and patience, leading to strong student-TA relationships and commendations from the course instructors for my reliability and ability to handle student questions effectively."
+  },
+  {
+    "objectID": "CV/courses.html",
+    "href": "CV/courses.html",
+    "title": "Courses",
+    "section": "",
+    "text": "Marquette University\nMy doctoral studies focus on advanced computational methods and statistical theory.\n\n\n\n\nComputational Statistics\nScientific Computing\nSimulation\nStatistical Machine Learning\nComputational Probability\n\n\n\n\n\nMathematical Statistics\nApplied Mathematical Analysis\nLinear Algebra\nRegression Analysis\nLongitudinal Data Analysis\nResearch Methods"
+  },
+  {
+    "objectID": "CV/courses.html#phd-coursework",
+    "href": "CV/courses.html#phd-coursework",
+    "title": "Courses",
+    "section": "",
+    "text": "Marquette University\nMy doctoral studies focus on advanced computational methods and statistical theory.\n\n\n\n\nComputational Statistics\nScientific Computing\nSimulation\nStatistical Machine Learning\nComputational Probability\n\n\n\n\n\nMathematical Statistics\nApplied Mathematical Analysis\nLinear Algebra\nRegression Analysis\nLongitudinal Data Analysis\nResearch Methods"
+  },
+  {
+    "objectID": "CV/courses.html#masters-coursework",
+    "href": "CV/courses.html#masters-coursework",
+    "title": "Courses",
+    "section": "Master’s Coursework",
+    "text": "Master’s Coursework\nShahid Beheshti University of Medical Sciences\nMy Master’s program provided a rigorous foundation in biostatistics and clinical applications.\n\nStatistical Methods: Methods of Biostatistics (I, II, III), Biostatistical Inferences (I, II), Nonparametric Statistics, Practical Multivariate Analysis, Categorical Data Analysis.\nHealth Applications: Clinical Trials, Survival Analysis, Principles and Methods of Epidemiology, Medical Information Systems, Overview of Medical Sciences."
+  },
+  {
+    "objectID": "CV/courses.html#online-certifications-workshops",
+    "href": "CV/courses.html#online-certifications-workshops",
+    "title": "Courses",
+    "section": "Online Certifications & Workshops",
+    "text": "Online Certifications & Workshops\nI am a continuous learner, regularly updating my skills in data science and programming through professional platforms.\n\nDataCamp Tracks\n\n\nData Scientist with R Track (Dec 2017) - Click to view courses\n\n This comprehensive track covers the entire data science workflow in R.\n\n\nIntroduction to R & Intermediate R\n\n\nIntroduction to the Tidyverse\n\n\nImporting & Cleaning Data in R (Intro & Intermediate)\n\n\nIntroduction to SQL & Joining Data in SQL\n\n\nData Visualization with ggplot2\n\n\nCommunicating with Data in the Tidyverse\n\n\nExploratory Data Analysis in R (plus Case Study)\n\n\nMachine Learning with caret & Tidyverse\n\n\nCluster Analysis & Unsupervised Learning in R\n\n\nView Certificate\n\n\n\n\nStatistics with R Track (Oct 2018) - Click to view courses\n\n Focused on statistical inference and modeling.\n\n\nCorrelation and Regression\n\n\nMultiple and Logistic Regression\n\n\nGeneralized Linear Models (GLM)\n\n\nFoundations of Inference\n\n\nTime Series Analysis, Forecasting & ARIMA Models\n\n\nExperimental Design\n\n\nFactor Analysis & Structural Equation Modeling\n\n\nMultivariate Probability Distributions\n\n\nView Certificate\n\n\n\n\nData Analyst with Python Track (Nov 2016)\n\n Foundational data analysis skills using Python.  View Certificate\n\n\n\nAdditional Certifications & Workshops\n\nTableau Fundamentals (DataCamp, May 2021)\nIntroduction to Scholarly Publishing Workshop (Elsevier, Dec 2018)"
+  },
+  {
+    "objectID": "CV/presentations.html",
+    "href": "CV/presentations.html",
+    "title": "presentations",
+    "section": "",
+    "text": "Three Minute Presentation"
+  },
+  {
+    "objectID": "CV/experience.html",
+    "href": "CV/experience.html",
+    "title": "Experience",
+    "section": "",
+    "text": "Apr 2022 - Dec 2022  Tehran\n\n\n\nStatistician / Data Analyst\nIndependent Consultant\n\nCollaborated with clients to clean datasets, interpret findings, and create dashboards for critical KPIs.\nTransformed complex data into actionable content for reports and creative visualizations.\nMentored students and supervised projects in data science and statistics.\n\n\n\n\nJun 2021 - Mar 2022  Tehran\n\n\n\nCo-Founder & Data Analyst\nMaya-Stat\n\nApplied advanced analytics to identify and prioritize high-value business activities.\nSolved complex business challenges including marketing spend optimization, demand forecasting, and customer retention.\nManaged the full data pipeline: pre-processing, exploratory data analysis (EDA), model training, testing, and evaluation.\n\n\n\n\nApr 2019 - May 2021  Tehran\n\n\n\nData Analyst\nFreelance\n\nAnalyzed client datasets to produce clear, compelling reports and visualizations using descriptive and inferential statistics.\nCommunicated analytical results to support decision-making processes.\nTranslated technical statistical concepts for non-technical audiences.\nConducted workshops to teach R programming.\n\n\n\n\nMay 2017 - Mar 2019  Tehran\n\n\n\nData Analyst and Statistician\nTezolMarket\n\nDeveloped machine learning algorithms for store classification to improve customer satisfaction.\nImplemented statistical processes including anomaly detection, logistic regression, dimension reduction, variable selection, and decision trees.\nGenerated statistical reports to support strategic business decisions.\nBuilt advanced analytics solutions to streamline decision-making processes.\n\n\n\n\nOct 2016 - Apr 2017  Tehran\n\n\n\nStatistician, R&D\nRahkarAndishan\n\nAnalyzed data to enhance the performance and reliability of web services.\nContributed to R&D efforts, advertising strategies, and business development analysis.\n\n\n\n\nJun 2016 - Sep 2016  Tehran\n\n\n\nStatistician Intern\nShahabYab\n\nProduced monthly statistical reports.\nAnalyzed business development metrics."
+  },
+  {
+    "objectID": "papers.html",
+    "href": "papers.html",
+    "title": "Papers",
+    "section": "",
+    "text": "Click “[PDF]” to download the paper where available.\n\n\n2025\n\nYegani, T., Mohseni, N., Dudda, M., Hardes, J., and Seitz, S. Submitted. Accuracy of Digital Preoperative Planning in Total Hip Arthroplasty: Which Factors Influence the Planning Precision for Cementless Short Curved Stem Prostheses via the Direct Anterior Approach? The Journal of Arthroplasty.\n\n\n\n2021\n\nMohseni, N., Khadem Maboudi, A. A., Baghestani, A., Hajifathali, H., and Saeedi, A. 2021. A cure rate survival model after stem cell transplantation for relapsed or refractory Hodgkin lymphoma patients. Middle East Journal of Cancer. https://doi.org/10.30476/MEJC.2021.88135.1461 [URL]\n\n\n\n2020\n\nSaeedi, A., Baghestani, A., Hashemi-Nazari, S. S., Minoo, F., Mohseni, N., and Esfahani, Z. 2020. Prediction of mortality incidence in patients with chronic kidney Disease based on influential prognostic factors with competing risks Approach. Galen Medical Journal, 9: e1798. https://doi.org/10.31661/gmj.v9i0.1798\n\n\nMohseni, N., Khadem Maboudi, A. A., Baghestani, A., and Saeedi, A. 2020. A cure rate model with discrete frailty on Hodgkin lymphoma patients after diagnosis. Archives of Advances in Biosciences. https://doi.org/10.22037/aab.v11i4.32576\n\n\nLooha, M. A., Masaebi, F., Mohseni, N., Abedi, M., and Fakharian, A. 2020. The Optimal Cut-off Score of the Nijmegen Questionnaire for Diagnosing Hyperventilation Syndrome Using a Bayesian Model in the Absence of a Gold Standard. Galen Medical Journal. https://doi.org/10.31661/gmj.v9i0.1738 [PDF]\n\n\nMasaebi, F., Looha, M. A., Rostami-Nejad, M., Pourhoseingholi, M. A., Mohseni, N., Samasca, G., Lupan, I., Rezaei-Tavirani, M., and Zali, M. R. 2020. The Predictive Value of Serum Cytokines for Distinguishing Celiac Disease from Non-Celiac Gluten Sensitivity and Healthy Subjects. Iranian Biomedical Journal. https://doi.org/10.29252/ibj.24.6.335 [PDF]\n\n\n\n2019\n\nLooha, M. A., Masaebi, F., Mohseni, N., Nasiri, M., Kazeruni, F., and Zayeri, F. 2019. Assessing the diagnostic power of Cystatin C and Creatinine in the detection of chronic kidney disease. Archives of Advances in Biosciences. https://doi.org/10.22037/aab.v10i3.25589 [PDF]"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Regression: A Comprehensive Overview\n\n\n\n\n\n\n\nR\n\n\nStatistics\n\n\nMachine Learning\n\n\n\n\n\n\n\n\n\n\n\nJun 28, 2021\n\n\nNavid Mohseni\n\n\n\n\n\n\n  \n\n\n\n\nHeart Rate Analysis with R\n\n\n\n\n\n\n\nR\n\n\nDataCamp\n\n\n\n\n\n\n\n\n\n\n\nDec 22, 2019\n\n\nNavid Mohseni\n\n\n\n\n\n\n  \n\n\n\n\nNew York Taxi Analysis with R\n\n\n\n\n\n\n\nR\n\n\nTidyverse\n\n\n\n\n\n\n\n\n\n\n\nDec 7, 2019\n\n\nNavid Mohseni\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/taxi_analysis/index.html",
+    "href": "posts/taxi_analysis/index.html",
+    "title": "New York Taxi Analysis with R",
+    "section": "",
+    "text": "We are going to do the DataCamp R project: New York Taxi. In this project, we work with data from a large number of taxi journeys in New York from 2013."
+  },
+  {
+    "objectID": "posts/taxi_analysis/index.html#loading-the-data",
+    "href": "posts/taxi_analysis/index.html#loading-the-data",
+    "title": "New York Taxi Analysis with R",
+    "section": "Loading the Data",
+    "text": "Loading the Data\n\n# Loading the tidyverse\nlibrary(tidyverse)\n# Reading in the taxi data\ntaxi &lt;- read_csv(\"datasets/taxi.csv\")\n\n# Taking a look at the first couple of rows in taxi\nhead(taxi)\n\nlibrary(testthat) \nlibrary(IRkernel.testthat)\n\nrun_tests({\n    test_that(\"Test that tidyverse is loaded\", {\n        expect_true( \"package:tidyverse\" %in% search(), \n            info = \"The tidyverse package should be loaded using library().\")\n    })\n    \n    test_that(\"Read in data correctly.\", {\n        expect_is(taxi, \"tbl_df\", \n            info = 'You should use read_csv (with an underscore) to read \"datasets/taxi.csv\" into taxi.')\n    })\n    \n    test_that(\"Read in data correctly.\", {\n        taxi_temp &lt;- read_csv('datasets/taxi.csv')\n        expect_equivalent(taxi, taxi_temp, \n            info = 'taxi should contain the data in \"datasets/taxi.csv\".')\n    })\n})\n\n# Renaming the location variables,\n# dropping any journeys with zero fares and zero tips,\n# and creating the total variable as the log sum of fare and tip\ntaxi &lt;- taxi  %&gt;% rename(lat = pickup_latitude, long = pickup_longitude)  %&gt;% filter(fare_amount &gt; 0 | tip_amount &gt; 0)  %&gt;% mutate(total = log(fare_amount + tip_amount))\nhead(taxi)\n\nrun_tests({\n    test_that(\"rename lat\", {\n        expect_true(!is.null(taxi$lat), \n            info = \"The taxi data frame does not contain a variable called lat. You need to rename pickup_latitude.\")\n    })\n    test_that(\"rename long\", {\n        expect_true(!is.null(taxi$long), \n            info = \"The taxi data frame does not contain a variable called long. You need to rename pickup_longitude.\")\n    })\n    test_that(\"total exists\", {\n        expect_true(!is.null(taxi$total), \n            info = \"The taxi data frame does not contain a variable called total. You need to create this as the logarithm (use the log() function) of the sum of fare_amount and tip_amount.\")\n    })\n    test_that(\"Modified data correctly.\", {\n        taxi_temp &lt;- read_csv('datasets/taxi.csv') %&gt;%\n            rename(long = pickup_longitude, lat = pickup_latitude)  %&gt;% \n            filter(fare_amount &gt; 0 | tip_amount &gt; 0) %&gt;%\n            mutate(total = log(fare_amount + tip_amount) )\n        expect_equivalent(taxi, taxi_temp, \n            info = 'The taxi dataframe has not been modified correctly. See if you can find something is wrong with your code.')\n    })\n})\n\n\n# Reducing the data to taxi trips starting in Manhattan\n# Manhattan is bounded by the rectangle with \n# latitude from 40.70 to 40.83 and \n# longitude from -74.025 to -73.93\ntaxi &lt;- taxi  %&gt;% \n    filter(between(lat, 40.70, 40.83) &\n          between(long ,-74.025, -73.93))\n\nrun_tests({\n  test_that(\"The correct number of rows have been filtered away\", {\n      expect_equal(45766, nrow(taxi), \n      info = \"It seems you haven't filter away the taxi trips outside of Manhattan correctly.\")\n  })\n})\n\n# Loading in ggmap and viridis for nice colors\nlibrary(ggmap)\nlibrary(viridis)\n\n# Retrieving a stored map object which originally was created by\n# manhattan &lt;- get_map(\"manhattan\", zoom = 12, color = \"bw\")\nmanhattan &lt;- readRDS(\"datasets/manhattan.rds\")\n\n# Drawing a density map with the number of journey start locations\nggmap(manhattan, darken = 0.5) +\n   scale_fill_viridis(option = 'plasma') +\n   geom_bin2d(data = taxi, aes(long, lat, bins = 60, alpha = 0.6)) + \n    labs(x = \"Longitude\", y = \"Latitude\", fill = \"Journeys\")\n\nrun_tests({\n    \n    test_that(\"Test that ggmap is loaded\", {\n        expect_true( \"package:ggmap\" %in% search(), \n            info = \"The ggmap package should be loaded using library().\")\n    })\n    test_that(\"Test that viridis is loaded\", {\n        expect_true( \"package:viridis\" %in% search(), \n            info = \"The viridis package should be loaded using library().\")\n    })\n    \n    test_that(\"Check that geom_bin2d was used\", {\n        p &lt;- last_plot()\n        stat_classes &lt;- as.character(sapply(p$layers, function(layer) {\n            class(layer$stat)\n        }))\n\n        expect_true(\"StatBin2d\" %in% stat_classes, \n            info = \"You need to use geom_bin2d correctly to draw the map.\")\n    })\n})\n\n\n# Loading in the tree package.\nlibrary(tree)\n\n# Fitting a tree to lat and long\nfitted_tree &lt;- tree(data = taxi, total ~ lat + long)\n\n# Draw a diagram of the tree structure\nplot(fitted_tree)\ntext(fitted_tree)\n\nrun_tests({\n    test_that(\"Test that tree is loaded\", {\n        expect_true( \"package:tree\" %in% search(), \n            info = \"The tree package should be loaded using library().\")\n    })\n  test_that(\"The tree has been fitted correctly\", {\n      correctly_fitted_tree &lt;- tree(total ~ lat + long, data = taxi)\n      expect_equivalent(fitted_tree, correctly_fitted_tree, \n      info = \"It seem you didn't fit the tree correctly. Check the hint, it might help!\")\n  })\n})\n\n\n# Loading in the lubridate package\nlibrary(lubridate)\n\n# Generate the three new time variables\ntaxi &lt;- taxi %&gt;% \n    mutate(hour = hour(pickup_datetime),\n          wday = wday(pickup_datetime, label = TRUE),\n          month = month(pickup_datetime, label = TRUE))\n\nrun_tests({\n    test_that(\"Test that lubridate is loaded\", {\n        expect_true( \"package:lubridate\" %in% search(), \n            info = \"The lubridate package should be loaded using library().\")\n    })\n    test_that(\"hour is correct\", {\n        expect_equivalent(taxi$hour[1], 10L, \n            info = \"The `hour` column doesn't seem to be correct. Check the hint for more help.\")\n    })\n    test_that(\"wday is correct\", {\n        expect_true(taxi$wday[1] == \"Sun\", \n            info = \"The `wday` column doesn't seem to be correct. Check the hint for more help.\")\n    })\n    test_that(\"month is correct\", {\n        expect_true(taxi$month[1] == \"Jan\", \n            info = \"The `month` column doesn't seem to be correct. Check the hint for more help.\")\n    })\n})\n\n# Fitting a tree with total as the outcome and \n# lat, long, hour, wday, and month as predictors\nfitted_tree &lt;- tree(data = taxi, total ~ lat + long + hour + wday + month)\n\n# draw a diagram of the tree structure\nplot(fitted_tree)\ntext(fitted_tree)\n\n# Summarizing the performance of the tree\nsummary(fitted_tree)\n\nrun_tests({\n  test_that(\"The tree has been fitted correctly\", {\n      correctly_fitted_tree &lt;- tree(total ~ lat + long + hour + wday + month, data = taxi)\n      expect_equivalent(fitted_tree, correctly_fitted_tree, \n      info = \"It seem you didn't fit the tree correctly. Check the hint, it might help!\")\n  })\n})\n\n# Loading in the randomForest package\nlibrary(randomForest)\n# Fitting a random forest\nfitted_forest &lt;- randomForest(data = taxi, total ~ lat + long + hour + wday + month, ntree = 80, sampsize = 10000)\n\n# Printing the fitted_forest object\nfitted_forest\n\nrun_tests({\n    test_that(\"Test that randomForest is loaded\", {\n        expect_true( \"package:randomForest\" %in% search(), \n            info = \"The randomForest package should be loaded using library().\")\n    })\n    test_that(\"ntree is correct.\", {\n        expect_true(fitted_forest$ntree == 80, \n            info = \"The ntree argument to randomForest should be ntree = 80 .\")\n    })\n    test_that(\"Check randomForest call was ok\", {\n        call_string &lt;- paste(deparse(fitted_forest$call), collapse = \" \")\n        keywords &lt;- c(\"total\", \"lat\", \"long\", \"hour\", \"wday\", \"month\",\n                      \"ntree\", \"sampsize\", \"100\")\n        expect_true(all(str_detect(call_string, keywords)), \n            info = \"You have not called randomForest correctly. Did you include all the predictors and the right output variable?.\")\n    })\n})\n\n# Extracting the prediction from fitted_forest\ntaxi$pred_total &lt;- fitted_forest$predicted\n\n# Plotting the predicted mean trip prices from according to the random forest\n# .... COPY CODE FROM TASK 4 AND MODIFY HERE ....\nggmap(manhattan, darken = 0.5) +\n   scale_fill_viridis(option = 'plasma') +\n   stat_summary_2d(data = taxi, aes(long, lat, bins = 60, alpha = 0.6,z = pred_total), fun = mean) + \n    labs(x = \"Longitude\", y = \"Latitude\", fill = \"Fitted\")\n\nrun_tests({\n    test_that(\"taxi$pred_total == fitted_forest$predicted\", {\n        expect_true(all(taxi$pred_total == fitted_forest$predicted), \n            info = \"You should assign fitted_forest$predicted to taxi$pred_total .\")\n    })\n    test_that(\"Check that stat_summary_2d was used\", {\n        p &lt;- last_plot()\n        stat_classes &lt;- as.character(sapply(p$layers, function(layer) {\n            class(layer$stat)\n        }))\n\n        expect_true(\"StatSummary2d\" %in% stat_classes, \n            info = \"You need to use geom_bin2d correctly to draw the map.\")\n    })\n    test_that(\"Check that pred_total was used\", {\n        p &lt;- last_plot()\n        p_variables &lt;- unlist(sapply(p$layers, function(layer) {\n            as.character(layer$mapping)\n        }))\n        expect_true(any(str_detect(p_variables, \"pred_total\")), \n            info = \"You need to connect pred_total to z in the aes() call correctly.\")\n    })\n})\n\n\n# Function that returns the mean *if* there are 15 or more datapoints\nmean_if_enough_data &lt;- function(x) { \n    ifelse( length(x) &gt;= 15, mean(x), NA) \n}\n\n# Plotting the mean trip prices from the data\n# .... COPY CODE FROM TASK 9 AND MODIFY HERE ....\nggmap(manhattan, darken = 0.5) +\n   scale_fill_viridis(option = 'plasma') +\n   stat_summary_2d(data = taxi, aes(long, lat, bins = 60, alpha = 0.6,z = total), fun = mean_if_enough_data) + \n    labs(x = \"Longitude\", y = \"Latitude\", fill = \"Fitted\")\n\nrun_tests({\n    test_that(\"Check that total was used but not pred_total\", {\n        p &lt;- last_plot()\n        p_variables &lt;- unlist(sapply(p$layers, function(layer) {\n            as.character(layer$mapping)\n        }))\n        expect_true(any(str_detect(p_variables, \"total\")) & \n                   !any(str_detect(p_variables, \"pred_total\")), \n            info = \"You need to connect total to z in the aes() call correctly. Make sure you are not still using pred_total.\")\n    })\n})\n\n# Where are people spending the most on their taxi trips?\nspends_most_on_trips &lt;- \"downtown\" # \"uptown\" or \"downtown\"\n\nrun_tests({\n  test_that(\"...\", {\n      expect_true(str_detect(tolower(spends_most_on_trips), \"downtown\"), \n      info = \"Well, looking at the plot it looks like people pay more downtown.\")\n  })\n})"
   }
 ]
